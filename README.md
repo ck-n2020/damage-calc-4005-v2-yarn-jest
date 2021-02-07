@@ -1,5 +1,6 @@
 # damage-calc
-[![ck-n2020](https://circleci.com/gh/ck-n2020/damage-calc-4005-v2-yarn-jest.svg?style=svg)](https://circleci.com/gh/ck-n2020/damage-calc-4005-v2-yarn-jest)
+[![CircleCI](https://circleci.com/gh/ck-n2020/damage-calc-4005-v2-yarn-jest.svg?style=svg)](https://circleci.com/gh/ck-n2020/damage-calc-4005-v2-yarn-jest)
+
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
 
